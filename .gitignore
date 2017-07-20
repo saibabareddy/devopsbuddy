@@ -47,3 +47,5 @@ dist/
 nbdist/
 .nb-gradle/
 >>>>>>> Initial commit
+/.metadata/
+/.metadata/
